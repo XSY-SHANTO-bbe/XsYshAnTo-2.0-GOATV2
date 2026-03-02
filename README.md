@@ -44,7 +44,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)                    
-src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗦𝗛𝗔𝗡𝗧𝗢-𝗕𝗢𝗧 - 𝗬𝗢𝗨𝗥 𝗔𝗟𝗜𝗦𝗛𝗔  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" 𝗦𝗛𝗔𝗡𝗧𝗢-𝗕𝗢𝗧 - 𝗬𝗢𝗨𝗥 𝗔𝗟𝗜𝗦𝗛𝗔  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -73,7 +73,7 @@ src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗦𝗛𝗔𝗡𝗧𝗢-
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer From Bangladesh SHANTO</h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
